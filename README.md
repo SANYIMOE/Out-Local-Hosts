@@ -25,9 +25,9 @@
 - JSON：`https://update.mojy.xyz/out-local-hosts/.new/hosts.json`
 - iKuai：`https://update.mojy.xyz/out-local-hosts/.new/ikuai.txt`
 
-#### jsDelivr
-
 #### CDNMOE
+
+#### jsDelivr
 
 ### 第三方更新源
 ```
