@@ -16,9 +16,35 @@
 ## 二、使用方法
 ### 根据设备类型选择最新的hosts文件，根据网络情况选择不同更新源。
 ### 官方更新源
+#### 默认更新源
+
 #### 玉桂更新服务
 下列文件内容会随时更新，保证最新有效。
 
 - hosts：`https://update.mojy.xyz/out-local-hosts/.new/hosts`
 - JSON：`https://update.mojy.xyz/out-local-hosts/.new/hosts.json`
 - iKuai：`https://update.mojy.xyz/out-local-hosts/.new/ikuai.txt`
+
+#### jsDelivr
+
+#### CDNMOE
+
+### 第三方更新源
+```
+小心！
+我们无法 100% 保证第三方更新源的安全。请谨慎使用，防止恶意配置注入。
+```
+
+```
+提示：
+更新源的排序不分先后。
+```
+
+```
+更新源维护者请看
+我们会不定期检查各个第三方更新源的可用情况，并清理其中不可用的更新源。
+
+如果您发现您曾经在此添加过的更新源不存在，请检查您的更新源是否可用，并在处理完成后告知我们。
+```
+
+无数据
