@@ -377,6 +377,11 @@
 185.199.111.133	              user-images.githubusercontent.com
 # GitHub Hosts End
 
+# Google Search Home Hosts Start
+172.217.160.0	google.com
+172.217.160.0	www.google.com
+# Google Search Home Hosts End
+
 # Gravatar Hosts Start
 192.0.80.242                  gravatar.com
 192.0.80.242                  www.gravatar.com
