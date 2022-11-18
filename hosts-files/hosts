@@ -232,57 +232,6 @@
 162.125.82.2                  log.getdropbox.com
 # Dropbox Hosts End
 
-# GitHub Hosts Start
-140.82.121.4                  github.com
-140.82.121.4                  www.github.com
-140.82.113.3                  gist.github.com
-185.199.111.133               desktop.githubusercontent.com
-52.224.38.193                 github.dev
-13.107.246.59                 vscode.dev
-185.199.111.133               raw.githubusercontent.com
-185.199.111.153               github.io
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               avatars6.githubusercontent.com
-185.199.111.133               avatars7.githubusercontent.com
-185.199.111.133	              avatars8.githubusercontent.com
-185.199.111.133               avatars9.githubusercontent.com
-185.199.111.133	              camo.githubusercontent.com
-185.199.111.133	              cloud.githubusercontent.com
-185.199.111.133	              gist.githubusercontent.com
-185.199.111.133	              marketplace-screenshots.githubusercontent.com
-185.199.111.133	              repository-images.githubusercontent.com
-185.199.111.133	              user-images.githubusercontent.com
-# GitHub Hosts End
-
-# Gravatar Hosts Start
-192.0.80.242                  gravatar.com
-192.0.80.242                  www.gravatar.com
-192.0.80.240                  en.gravatar.com
-192.0.80.240                  cn.gravatar.com
-192.0.80.240                  zh-tw.gravatar.com
-192.0.80.239                  ja.gravatar.com
-# Gravatar Hosts End
-
-# Wikipedia Hosts Start
-103.102.166.224               wikipedia.org
-103.102.166.224               www.wikipedia.org
-103.102.166.224               zh.wikipedia.org
-103.102.166.224               en.wikipedia.org
-103.102.166.224               ja.wikipedia.org
-103.102.166.224               fr.wikipedia.org
-103.102.166.224               es.wikipedia.org
-103.102.166.224               ru.wikipedia.org
-103.102.166.224               de.wikipedia.org
-103.102.166.224               it.wikipedia.org
-103.102.166.224               fa.wikipedia.org
-103.102.166.224               pt.wikipedia.org
-# Wikipedia Hosts End
-
 # Facebook Start
 157.240.199.35                facebook.com
 157.240.199.35                www.facebook.com
@@ -400,6 +349,42 @@
 192.0.66.2	                  threatexchange.fb.com
 157.240.11.18	                video.xx.fbcdn.net
 # Facebook End
+
+# GitHub Hosts Start
+140.82.121.4                  github.com
+140.82.121.4                  www.github.com
+140.82.113.3                  gist.github.com
+185.199.111.133               desktop.githubusercontent.com
+52.224.38.193                 github.dev
+13.107.246.59                 vscode.dev
+185.199.111.133               raw.githubusercontent.com
+185.199.111.153               github.io
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               avatars6.githubusercontent.com
+185.199.111.133               avatars7.githubusercontent.com
+185.199.111.133	              avatars8.githubusercontent.com
+185.199.111.133               avatars9.githubusercontent.com
+185.199.111.133	              camo.githubusercontent.com
+185.199.111.133	              cloud.githubusercontent.com
+185.199.111.133	              gist.githubusercontent.com
+185.199.111.133	              marketplace-screenshots.githubusercontent.com
+185.199.111.133	              repository-images.githubusercontent.com
+185.199.111.133	              user-images.githubusercontent.com
+# GitHub Hosts End
+
+# Gravatar Hosts Start
+192.0.80.242                  gravatar.com
+192.0.80.242                  www.gravatar.com
+192.0.80.240                  en.gravatar.com
+192.0.80.240                  cn.gravatar.com
+192.0.80.240                  zh-tw.gravatar.com
+192.0.80.239                  ja.gravatar.com
+# Gravatar Hosts End
 
 # Instagram Hosts Start
 31.13.75.174                  instagram.com
@@ -536,5 +521,20 @@
 157.240.7.174                 scontent-sin6-1.cdninstagram.com
 157.240.13.172                scontent-sin6-2.cdninstagram.com
 # Instagram Hosts End
+
+# Wikipedia Hosts Start
+103.102.166.224               wikipedia.org
+103.102.166.224               www.wikipedia.org
+103.102.166.224               zh.wikipedia.org
+103.102.166.224               en.wikipedia.org
+103.102.166.224               ja.wikipedia.org
+103.102.166.224               fr.wikipedia.org
+103.102.166.224               es.wikipedia.org
+103.102.166.224               ru.wikipedia.org
+103.102.166.224               de.wikipedia.org
+103.102.166.224               it.wikipedia.org
+103.102.166.224               fa.wikipedia.org
+103.102.166.224               pt.wikipedia.org
+# Wikipedia Hosts End
 
 # Modified Hosts End
