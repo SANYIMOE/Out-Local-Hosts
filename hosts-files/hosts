@@ -12,12 +12,30 @@
 # Localhost (DO NOT REMOVE) End
 
 # GitHub Hosts Start
+140.82.121.4                  github.com
+140.82.121.4                  www.github.com
+140.82.113.3                  gist.github.com
 44.201.115.22                 desktop.githubusercontent.com
 52.224.38.193                 github.dev
 13.107.219.40                 vscode.dev
-140.82.121.4                  github.com
 185.199.111.133               raw.githubusercontent.com
 185.199.110.153               github.io
+151.101.56.133                avatars0.githubusercontent.com
+151.101.56.133                avatars1.githubusercontent.com
+151.101.56.133                avatars2.githubusercontent.com
+151.101.56.133                avatars3.githubusercontent.com
+151.101.56.133                avatars4.githubusercontent.com
+151.101.56.133                avatars5.githubusercontent.com
+151.101.56.133                avatars6.githubusercontent.com
+151.101.56.133                avatars7.githubusercontent.com
+151.101.56.133	              avatars8.githubusercontent.com
+185.199.111.133               avatars9.githubusercontent.com
+151.101.56.133	              camo.githubusercontent.com
+151.101.56.133	              cloud.githubusercontent.com
+151.101.56.133	              gist.githubusercontent.com
+151.101.56.133	              marketplace-screenshots.githubusercontent.com
+151.101.56.133	              repository-images.githubusercontent.com
+151.101.56.133	              user-images.githubusercontent.com
 # GitHub Hosts End
 
 # Gravatar Hosts Start
