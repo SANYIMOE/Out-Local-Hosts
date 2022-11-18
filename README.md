@@ -18,17 +18,28 @@
 ### 根据设备类型选择最新的hosts文件，根据网络情况选择不同更新源。
 ### 官方更新源
 #### 默认更新源
+下列文件内容会随时更新，保证最新有效。
+
+- hosts：`https://out-local-hosts.mojy.xyz/hosts-files/hosts`
+- iKuai：`https://out-local-hosts.mojy.xyz/hosts-files/ikuai.txt`
 
 #### 玉桂更新服务
 下列文件内容会随时更新，保证最新有效。
 
 - hosts：`https://update.mojy.xyz/out-local-hosts/.new/hosts`
-- JSON：`https://update.mojy.xyz/out-local-hosts/.new/hosts.json`
 - iKuai：`https://update.mojy.xyz/out-local-hosts/.new/ikuai.txt`
 
 #### CDNMOE
+下列文件内容会随时更新，保证最新有效。
+
+- hosts：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Out-Local-Hosts/hosts-files/hosts`
+- iKuai：`https://cdnmoe.xiaolanabc.top/jdr/gh/SANYIMOE/Out-Local-Hosts/hosts-files/ikuai.txt`
 
 #### jsDelivr
+下列文件内容会随时更新，保证最新有效。
+
+- hosts：`https://cdn.jsdelivr.net/gh/SANYIMOE/Out-Local-Hosts/hosts-files/hosts`
+- iKuai：`https://cdn.jsdelivr.net/gh/SANYIMOE/Out-Local-Hosts/hosts-files/ikuai.txt`
 
 ### 第三方更新源
 ```
