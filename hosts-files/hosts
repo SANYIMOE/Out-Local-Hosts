@@ -11,41 +11,149 @@
 127.0.0.1	localhost
 # Localhost (DO NOT REMOVE) End
 
-# GitHub Hosts Start
-140.82.121.4                  github.com
-140.82.121.4                  www.github.com
-140.82.113.3                  gist.github.com
-185.199.111.133               desktop.githubusercontent.com
-52.224.38.193                 github.dev
-13.107.246.59                 vscode.dev
-185.199.111.133               raw.githubusercontent.com
-185.199.111.153               github.io
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               avatars6.githubusercontent.com
-185.199.111.133               avatars7.githubusercontent.com
-185.199.111.133	              avatars8.githubusercontent.com
-185.199.111.133               avatars9.githubusercontent.com
-185.199.111.133	              camo.githubusercontent.com
-185.199.111.133	              cloud.githubusercontent.com
-185.199.111.133	              gist.githubusercontent.com
-185.199.111.133	              marketplace-screenshots.githubusercontent.com
-185.199.111.133	              repository-images.githubusercontent.com
-185.199.111.133	              user-images.githubusercontent.com
-# GitHub Hosts End
+# Amazon AWS Hosts Start
+52.219.4.104                  s3-ap-northeast-1.amazonaws.com
+52.95.129.92                  s3-ap-southeast-2.amazonaws.com
+# Amazon AWS Hosts End
 
-# Gravatar Hosts Start
-192.0.80.242                  gravatar.com
-192.0.80.242                  www.gravatar.com
-192.0.80.240                  en.gravatar.com
-192.0.80.240                  cn.gravatar.com
-192.0.80.240                  zh-tw.gravatar.com
-192.0.80.239                  ja.gravatar.com
-# Gravatar Hosts End
+# Amazon Japan Hosts Start
+52.119.164.121                amazon.co.jp
+23.13.186.208                 www.amazon.co.jp
+54.239.96.187                 aftlite-portal-nrt.amazon.co.jp
+52.94.210.248                 alexa.amazon.co.jp
+54.240.251.149                api.amazon.co.jp
+52.119.168.241                arap.amazon.co.jp
+54.240.248.126                www.artistcentral.amazon.co.jp
+54.240.250.160                astore.amazon.co.jp
+52.94.211.66                  brandregistry.amazon.co.jp
+54.240.248.142                catalog-sc.amazon.co.jp
+54.240.248.108                cde-ta-g7g-sha-proxy.amazon.co.jp
+52.94.210.103                 completion.amazon.co.jp
+205.251.235.239               copilot.amazon.co.jp
+54.240.248.163                dropship.amazon.co.jp
+54.240.254.58                 cs-ext.amazon.co.jp
+54.240.252.151                endeavour.amazon.co.jp
+35.166.79.161                 fls-fe.amazon.co.jp
+54.240.250.189                kdp.amazon.co.jp
+176.32.100.154                kindle-images.amazon.co.jp
+54.240.250.180                kindlepreviewservice.amazon.co.jp
+54.240.250.59                 kuato.amazon.co.jp
+54.240.254.122                logistics.amazon.co.jp
+54.240.248.64                 mt.amazon.co.jp
+54.240.251.157                music.amazon.co.jp
+52.94.212.221                 music-xray-service.amazon.co.jp
+52.119.164.28                 widgets.amazon.co.jp
+54.240.250.177                opf-sellercentral.amazon.co.jp
+54.240.251.156                payments.amazon.co.jp
+54.240.250.198                prime.amazon.co.jp
+54.240.248.131                read.amazon.co.jp
+52.94.210.139                 shm.amazon.co.jp
+# Amazon Japan Hosts End
+
+# Android Hosts Start
+172.217.30.157                a.android.com
+172.217.30.157                connectivitycheck.android.com
+172.217.30.157                d.android.com
+172.217.30.157                dev.android.com
+172.217.30.157                market.android.com
+172.217.30.157                r.android.com
+172.217.8.250                 android.com
+172.217.30.153                www.android.com
+172.217.8.252                 source.android.com
+172.217.8.249                 developer.android.com
+# Android Hosts End
+
+# Apkpure Hosts Start
+104.20.82.194                 apkpure.com
+104.20.82.194                 m.apkpure.com
+# Apkpure Hosts End
+
+# Apkmirror Hosts Start
+104.19.133.58                 www.apkmirror.com
+# Apkmirror Hosts End
+
+# Appspot Hosts Start
+172.217.168.209               www.appspot.com
+172.217.168.209               appspot.com
+172.217.168.209               events.withgoogle.com
+172.217.168.209               summerofcode.withgoogle.com
+172.217.168.209               foobar.withgoogle.com
+172.217.168.209               interstellar.withgoogle.com
+172.217.168.209               edudirectory.withgoogle.com
+172.217.168.209               atmosphere.withgoogle.com
+172.217.168.209               accelerate.withgoogle.com
+172.217.168.209               insgruene.withgoogle.com
+172.217.168.209               atmospheretokyo.withgoogle.com
+172.217.168.209               connectedclassrooms.withgoogle.com
+172.217.168.209               smartypins.withgoogle.com
+172.217.168.209               streetart.withgoogle.com
+172.217.168.209               cardboard.withgoogle.com
+172.217.168.209               kickwithchrome.withgoogle.com
+172.217.168.209               candidatos.withgoogle.com
+172.217.168.209               trendstw.withgoogle.com
+172.217.168.209               impactchallenge.withgoogle.com
+172.217.168.209               eduproducts.withgoogle.com
+172.217.168.209               onetoday.google.com
+172.217.168.209               withgoogle.com
+172.217.168.209               www.withgoogle.com
+172.217.168.209               cloudnext.withgoogle.com
+172.217.168.209               edutrainingcenter.withgoogle.com
+172.217.168.209               earthview.withgoogle.com
+172.217.168.209               lightsaber.withgoogle.com
+172.217.168.209               britishmuseum.withgoogle.com
+172.217.168.209               beyondthemap.withgoogle.com
+172.217.168.209               analyticsacademy.withgoogle.com
+172.217.168.209               spellup.withgoogle.com
+172.217.194.153               chrome-infra-packages.appspot.com
+# Appspot Hosts End
+
+# Archive Hosts Start
+207.241.224.4                 archive.org
+207.241.224.4                 www.archive.org
+207.241.225.95                analytics.archive.org
+207.241.233.214               web-beta.archive.org
+207.241.233.214               wwwb-sentry.us.archive.org
+207.241.233.214               web.archive.org
+207.241.224.6                 mail.archive.org
+207.241.225.247               books-general.archive.org
+# Archive Hosts End
+
+# Bbc Hosts Start
+151.101.8.81                  www.bbc.com
+212.58.244.115                fig.bbc.co.uk
+212.58.244.69                 www.bbc.co.uk
+23.59.2.139                   static.bbci.co.uk
+23.199.11.116                 static.bbc.co.uk
+104.76.83.32                  nav.files.bbci.co.uk
+23.42.122.193                 ichef.bbci.co.uk
+23.73.186.251                 m.files.bbci.co.uk
+125.56.212.236                feeds.bbci.co.uk
+23.13.157.61                  mybbc.files.bbci.co.uk
+23.66.206.133                 polling.bbc.co.uk
+104.72.213.225                search.files.bbci.co.uk
+184.27.16.168                 a.files.bbci.co.uk
+95.101.15.42                  gel.files.bbci.co.uk
+104.103.150.125               emp.bbc.com
+23.53.213.148                 news.bbcimg.co.uk
+23.201.173.230                mybbc-analytics.files.bbci.co.uk
+212.58.244.114                ssl.bbc.co.uk
+13.33.213.226                 push.api.bbci.co.uk
+52.31.189.25                  search-suggest.api.bbci.co.uk
+34.245.252.9                  ess.api.bbci.co.uk
+212.58.249.134                session.bbc.com
+212.58.244.92                 account.bbc.com
+212.58.244.78                 open.live.bbc.co.uk
+# Bbc Hosts End
+
+# BigGo Hosts Start
+61.222.241.167                img.biggo.com.tw
+61.222.241.168                biggo.com.tw
+# BigGo Hosts End
+
+# Box Hosts Start
+107.152.24.198                app.box.com
+107.152.24.197                m.box.com
+# Box Hosts End
 
 # Discord Hosts Start
 104.16.58.5                   discordapp.com
@@ -58,32 +166,6 @@
 104.16.250.144                images-ext-2.discordapp.net
 104.16.10.231                 cdn.discordapp.com
 # Discord Hosts End
-
-# Wikipedia Hosts Start
-103.102.166.224               wikipedia.org
-103.102.166.224               www.wikipedia.org
-103.102.166.224               zh.wikipedia.org
-103.102.166.224               en.wikipedia.org
-103.102.166.224               ja.wikipedia.org
-103.102.166.224               fr.wikipedia.org
-103.102.166.224               es.wikipedia.org
-103.102.166.224               ru.wikipedia.org
-103.102.166.224               de.wikipedia.org
-103.102.166.224               it.wikipedia.org
-103.102.166.224               fa.wikipedia.org
-103.102.166.224               pt.wikipedia.org
-# Wikipedia Hosts End
-
-# Archive Hosts Start
-207.241.224.4                 archive.org
-207.241.224.4                 www.archive.org
-207.241.225.95                analytics.archive.org
-207.241.233.214               web-beta.archive.org
-207.241.233.214               wwwb-sentry.us.archive.org
-207.241.233.214               web.archive.org
-207.241.224.6                 mail.archive.org
-207.241.225.247               books-general.archive.org
-# Archive Hosts End
 
 # DuckDuckGo Hosts Start
 20.43.161.105                 duckduckgo.com
@@ -149,6 +231,57 @@
 162.125.33.9                  dbxlocal.dropboxstatic.com
 162.125.82.2                  log.getdropbox.com
 # Dropbox Hosts End
+
+# GitHub Hosts Start
+140.82.121.4                  github.com
+140.82.121.4                  www.github.com
+140.82.113.3                  gist.github.com
+185.199.111.133               desktop.githubusercontent.com
+52.224.38.193                 github.dev
+13.107.246.59                 vscode.dev
+185.199.111.133               raw.githubusercontent.com
+185.199.111.153               github.io
+185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               avatars6.githubusercontent.com
+185.199.111.133               avatars7.githubusercontent.com
+185.199.111.133	              avatars8.githubusercontent.com
+185.199.111.133               avatars9.githubusercontent.com
+185.199.111.133	              camo.githubusercontent.com
+185.199.111.133	              cloud.githubusercontent.com
+185.199.111.133	              gist.githubusercontent.com
+185.199.111.133	              marketplace-screenshots.githubusercontent.com
+185.199.111.133	              repository-images.githubusercontent.com
+185.199.111.133	              user-images.githubusercontent.com
+# GitHub Hosts End
+
+# Gravatar Hosts Start
+192.0.80.242                  gravatar.com
+192.0.80.242                  www.gravatar.com
+192.0.80.240                  en.gravatar.com
+192.0.80.240                  cn.gravatar.com
+192.0.80.240                  zh-tw.gravatar.com
+192.0.80.239                  ja.gravatar.com
+# Gravatar Hosts End
+
+# Wikipedia Hosts Start
+103.102.166.224               wikipedia.org
+103.102.166.224               www.wikipedia.org
+103.102.166.224               zh.wikipedia.org
+103.102.166.224               en.wikipedia.org
+103.102.166.224               ja.wikipedia.org
+103.102.166.224               fr.wikipedia.org
+103.102.166.224               es.wikipedia.org
+103.102.166.224               ru.wikipedia.org
+103.102.166.224               de.wikipedia.org
+103.102.166.224               it.wikipedia.org
+103.102.166.224               fa.wikipedia.org
+103.102.166.224               pt.wikipedia.org
+# Wikipedia Hosts End
 
 # Facebook Start
 157.240.199.35                facebook.com
@@ -403,138 +536,5 @@
 157.240.7.174                 scontent-sin6-1.cdninstagram.com
 157.240.13.172                scontent-sin6-2.cdninstagram.com
 # Instagram Hosts End
-
-# Amazon AWS Hosts Start
-52.219.4.104                  s3-ap-northeast-1.amazonaws.com
-52.95.129.92                  s3-ap-southeast-2.amazonaws.com
-# Amazon AWS Hosts End
-
-# Amazon Japan Hosts Start
-52.119.164.121                amazon.co.jp
-23.13.186.208                 www.amazon.co.jp
-54.239.96.187                 aftlite-portal-nrt.amazon.co.jp
-52.94.210.248                 alexa.amazon.co.jp
-54.240.251.149                api.amazon.co.jp
-52.119.168.241                arap.amazon.co.jp
-54.240.248.126                www.artistcentral.amazon.co.jp
-54.240.250.160                astore.amazon.co.jp
-52.94.211.66                  brandregistry.amazon.co.jp
-54.240.248.142                catalog-sc.amazon.co.jp
-54.240.248.108                cde-ta-g7g-sha-proxy.amazon.co.jp
-52.94.210.103                 completion.amazon.co.jp
-205.251.235.239               copilot.amazon.co.jp
-54.240.248.163                dropship.amazon.co.jp
-54.240.254.58                 cs-ext.amazon.co.jp
-54.240.252.151                endeavour.amazon.co.jp
-35.166.79.161                 fls-fe.amazon.co.jp
-54.240.250.189                kdp.amazon.co.jp
-176.32.100.154                kindle-images.amazon.co.jp
-54.240.250.180                kindlepreviewservice.amazon.co.jp
-54.240.250.59                 kuato.amazon.co.jp
-54.240.254.122                logistics.amazon.co.jp
-54.240.248.64                 mt.amazon.co.jp
-54.240.251.157                music.amazon.co.jp
-52.94.212.221                 music-xray-service.amazon.co.jp
-52.119.164.28                 widgets.amazon.co.jp
-54.240.250.177                opf-sellercentral.amazon.co.jp
-54.240.251.156                payments.amazon.co.jp
-54.240.250.198                prime.amazon.co.jp
-54.240.248.131                read.amazon.co.jp
-52.94.210.139                 shm.amazon.co.jp
-# Amazon Japan Hosts End
-
-# Android Hosts Start
-172.217.30.157                a.android.com
-172.217.30.157                connectivitycheck.android.com
-172.217.30.157                d.android.com
-172.217.30.157                dev.android.com
-172.217.30.157                market.android.com
-172.217.30.157                r.android.com
-172.217.8.250                 android.com
-172.217.30.153                www.android.com
-172.217.8.252                 source.android.com
-172.217.8.249                 developer.android.com
-# Android Hosts End
-
-# Apkpure Hosts Start
-104.20.82.194                 apkpure.com
-104.20.82.194                 m.apkpure.com
-# Apkpure Hosts End
-
-# Apkmirror Hosts Start
-104.19.133.58                 www.apkmirror.com
-# Apkmirror Hosts End
-
-# Appspot Hosts Start
-172.217.168.209               www.appspot.com
-172.217.168.209               appspot.com
-172.217.168.209               events.withgoogle.com
-172.217.168.209               summerofcode.withgoogle.com
-172.217.168.209               foobar.withgoogle.com
-172.217.168.209               interstellar.withgoogle.com
-172.217.168.209               edudirectory.withgoogle.com
-172.217.168.209               atmosphere.withgoogle.com
-172.217.168.209               accelerate.withgoogle.com
-172.217.168.209               insgruene.withgoogle.com
-172.217.168.209               atmospheretokyo.withgoogle.com
-172.217.168.209               connectedclassrooms.withgoogle.com
-172.217.168.209               smartypins.withgoogle.com
-172.217.168.209               streetart.withgoogle.com
-172.217.168.209               cardboard.withgoogle.com
-172.217.168.209               kickwithchrome.withgoogle.com
-172.217.168.209               candidatos.withgoogle.com
-172.217.168.209               trendstw.withgoogle.com
-172.217.168.209               impactchallenge.withgoogle.com
-172.217.168.209               eduproducts.withgoogle.com
-172.217.168.209               onetoday.google.com
-172.217.168.209               withgoogle.com
-172.217.168.209               www.withgoogle.com
-172.217.168.209               cloudnext.withgoogle.com
-172.217.168.209               edutrainingcenter.withgoogle.com
-172.217.168.209               earthview.withgoogle.com
-172.217.168.209               lightsaber.withgoogle.com
-172.217.168.209               britishmuseum.withgoogle.com
-172.217.168.209               beyondthemap.withgoogle.com
-172.217.168.209               analyticsacademy.withgoogle.com
-172.217.168.209               spellup.withgoogle.com
-172.217.194.153               chrome-infra-packages.appspot.com
-# Appspot Hosts End
-
-# BigGo Hosts Start
-61.222.241.167                img.biggo.com.tw
-61.222.241.168                biggo.com.tw
-# BigGo Hosts End
-
-# Box Hosts Start
-107.152.24.198                app.box.com
-107.152.24.197                m.box.com
-# Box Hosts End
-
-# Bbc Hosts Start
-151.101.8.81                  www.bbc.com
-212.58.244.115                fig.bbc.co.uk
-212.58.244.69                 www.bbc.co.uk
-23.59.2.139                   static.bbci.co.uk
-23.199.11.116                 static.bbc.co.uk
-104.76.83.32                  nav.files.bbci.co.uk
-23.42.122.193                 ichef.bbci.co.uk
-23.73.186.251                 m.files.bbci.co.uk
-125.56.212.236                feeds.bbci.co.uk
-23.13.157.61                  mybbc.files.bbci.co.uk
-23.66.206.133                 polling.bbc.co.uk
-104.72.213.225                search.files.bbci.co.uk
-184.27.16.168                 a.files.bbci.co.uk
-95.101.15.42                  gel.files.bbci.co.uk
-104.103.150.125               emp.bbc.com
-23.53.213.148                 news.bbcimg.co.uk
-23.201.173.230                mybbc-analytics.files.bbci.co.uk
-212.58.244.114                ssl.bbc.co.uk
-13.33.213.226                 push.api.bbci.co.uk
-52.31.189.25                  search-suggest.api.bbci.co.uk
-34.245.252.9                  ess.api.bbci.co.uk
-212.58.249.134                session.bbc.com
-212.58.244.92                 account.bbc.com
-212.58.244.78                 open.live.bbc.co.uk
-# Bbc Hosts End
 
 # Modified Hosts End
