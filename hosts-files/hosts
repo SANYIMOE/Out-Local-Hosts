@@ -29,6 +29,18 @@
 192.0.80.239                  ja.gravatar.com
 # Gravatar Hosts End
 
+# Discord Hosts Start
+104.16.58.5                   discordapp.com
+104.16.59.37                  discord.gg
+104.16.174.189                discord.media
+104.16.251.144                media.discordapp.net
+104.16.10.231                 status.discordapp.com
+104.16.250.144                images-ext-1.discordapp.net
+104.16.250.144                dl.discordapp.net
+104.16.250.144                images-ext-2.discordapp.net
+104.16.10.231                 cdn.discordapp.com
+# Discord Hosts End
+
 # Amazon AWS Hosts Start
 52.219.4.104                  s3-ap-northeast-1.amazonaws.com
 52.95.129.92                  s3-ap-southeast-2.amazonaws.com
