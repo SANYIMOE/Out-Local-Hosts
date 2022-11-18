@@ -56,6 +56,17 @@
 103.102.166.224               pt.wikipedia.org
 # Wikipedia Hosts End
 
+# Archive Hosts Start
+207.241.224.4                 archive.org
+207.241.224.4                 www.archive.org
+207.241.225.95                analytics.archive.org
+207.241.233.214               web-beta.archive.org
+207.241.233.214               wwwb-sentry.us.archive.org
+207.241.233.214               web.archive.org
+207.241.224.6                 mail.archive.org
+207.241.225.247               books-general.archive.org
+# Archive Hosts End
+
 # Amazon AWS Hosts Start
 52.219.4.104                  s3-ap-northeast-1.amazonaws.com
 52.95.129.92                  s3-ap-southeast-2.amazonaws.com
@@ -118,25 +129,25 @@
 # Apkmirror Hosts End
 
 # Appspot Hosts Start
-172.217.168.209	www.appspot.com
-172.217.168.209	appspot.com
-172.217.168.209	events.withgoogle.com
-172.217.168.209	summerofcode.withgoogle.com
-172.217.168.209	foobar.withgoogle.com
-172.217.168.209	interstellar.withgoogle.com
-172.217.168.209	edudirectory.withgoogle.com
-172.217.168.209	atmosphere.withgoogle.com
-172.217.168.209	accelerate.withgoogle.com
-172.217.168.209	insgruene.withgoogle.com
-172.217.168.209	atmospheretokyo.withgoogle.com
-172.217.168.209	connectedclassrooms.withgoogle.com
-172.217.168.209	smartypins.withgoogle.com
-172.217.168.209	streetart.withgoogle.com
-172.217.168.209	cardboard.withgoogle.com
-172.217.168.209	kickwithchrome.withgoogle.com
-172.217.168.209	candidatos.withgoogle.com
-172.217.168.209	trendstw.withgoogle.com
-172.217.168.209	impactchallenge.withgoogle.com
+172.217.168.209               www.appspot.com
+172.217.168.209               appspot.com
+172.217.168.209               events.withgoogle.com
+172.217.168.209               summerofcode.withgoogle.com
+172.217.168.209               foobar.withgoogle.com
+172.217.168.209               interstellar.withgoogle.com
+172.217.168.209               edudirectory.withgoogle.com
+172.217.168.209               atmosphere.withgoogle.com
+172.217.168.209               accelerate.withgoogle.com
+172.217.168.209               insgruene.withgoogle.com
+172.217.168.209               atmospheretokyo.withgoogle.com
+172.217.168.209               connectedclassrooms.withgoogle.com
+172.217.168.209               smartypins.withgoogle.com
+172.217.168.209               streetart.withgoogle.com
+172.217.168.209               cardboard.withgoogle.com
+172.217.168.209               kickwithchrome.withgoogle.com
+172.217.168.209               candidatos.withgoogle.com
+172.217.168.209               trendstw.withgoogle.com
+172.217.168.209               impactchallenge.withgoogle.com
 172.217.168.209	eduproducts.withgoogle.com
 172.217.168.209	onetoday.google.com
 172.217.168.209	withgoogle.com
@@ -151,17 +162,6 @@
 172.217.168.209	spellup.withgoogle.com
 172.217.194.153	chrome-infra-packages.appspot.com
 # Appspot Hosts End
-
-# Archive Hosts Start
-207.241.224.4	archive.org
-207.241.224.4	www.archive.org
-207.241.225.95	analytics.archive.org
-207.241.233.214	web-beta.archive.org
-207.241.233.214	wwwb-sentry.us.archive.org
-207.241.233.214	web.archive.org
-207.241.224.6	mail.archive.org
-207.241.225.247	books-general.archive.org
-# Archive Hosts End
 
 # BigGo Hosts Start
 61.222.241.167	img.biggo.com.tw
