@@ -1,2 +1,13 @@
+# Copyright (c) 2020-2022, SANYIMOE.
+# https://github.com/SANYIMOE/Out-Local-Hosts
+# Last updated: 2022-11-18
+
+# This work is licensed under a modified HOSTS License.
+# https://github.com/SANYIMOE/Out-Local-Hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+# Github Hosts Start
 id=1 ip_addr=44.201.115.22 domain=desktop.githubusercontent.com enabled=yes comment=
 id=2 ip_addr=52.224.38.193 domain=github.dev enabled=yes comment=
+# Github Hosts End
