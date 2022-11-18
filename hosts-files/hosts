@@ -19,3 +19,12 @@
 185.199.111.133               raw.githubusercontent.com
 185.199.110.153               github.io
 # GitHub Hosts End
+
+# Gravatar Hosts Start
+192.0.80.242                  gravatar.com
+192.0.80.242                  www.gravatar.com
+192.0.80.240                  en.gravatar.com
+192.0.80.240                  cn.gravatar.com
+192.0.80.240                  zh-tw.gravatar.com
+192.0.80.239                  ja.gravatar.com
+# Gravatar Hosts End
