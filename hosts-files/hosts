@@ -133,25 +133,25 @@
 # Dropbox Hosts End
 
 # Facebook Start
-157.240.7.35	www.facebook.com
-157.240.7.35	fb.me
-157.240.7.35	facebook.com
-157.240.7.35	api.facebook.com
-157.240.7.35	apps.facebook.com
-157.240.7.35	attachments.facebook.com
-157.240.7.35	business.facebook.com
-157.240.7.35	bigzipfiles.facebook.com
-157.240.7.35	code.facebook.com
-157.240.7.35	check4.facebook.com
-157.240.7.35	check6.facebook.com
-157.240.7.35	connect.facebook.com
-157.240.7.35	d.facebook.com
-157.240.7.35	developers.facebook.com
-157.240.7.35	graph.facebook.com
-157.240.7.35	l.facebook.com
-157.240.7.35	login.facebook.com
-157.240.7.35	m.facebook.com
-157.240.7.35	mtouch.facebook.com
+157.240.199.35                facebook.com
+157.240.199.35                www.facebook.com
+157.240.199.35                m.facebook.com
+157.240.199.35                fb.me
+157.240.199.35                api.facebook.com
+157.240.199.35                apps.facebook.com
+157.240.199.35                attachments.facebook.com
+157.240.199.35                business.facebook.com
+157.240.199.35                bigzipfiles.facebook.com
+157.240.199.35              	code.facebook.com
+157.240.199.35              	check4.facebook.com
+157.240.199.35              	check6.facebook.com
+157.240.199.35              	connect.facebook.com
+157.240.199.35              	d.facebook.com
+157.240.199.35               	developers.facebook.com
+157.240.199.35                graph.facebook.com
+157.240.199.35               	l.facebook.com
+157.240.199.35              	login.facebook.com
+157.240.199.35                mtouch.facebook.com
 157.240.7.35	mqtt.facebook.com
 157.240.7.35	mqtt-mini.facebook.com
 157.240.7.35	orcart.facebook.com
