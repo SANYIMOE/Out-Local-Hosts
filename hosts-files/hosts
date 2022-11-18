@@ -67,6 +67,71 @@
 207.241.225.247               books-general.archive.org
 # Archive Hosts End
 
+# DuckDuckGo Hosts Start
+13.210.167.213                duckduckgo.com
+13.210.167.213                www.duckduckgo.com
+13.210.167.213                ac.duckduckgo.com
+13.210.167.213                start.duckduckgo.com
+13.210.167.213                help.duckduckgo.com
+23.21.193.169                 icons.duckduckgo.com
+23.21.193.169                 proxy.duckduckgo.com
+23.21.193.169                 images.duckduckgo.com
+23.21.193.169                 improving.duckduckgo.com
+23.21.193.169                 external-content.duckduckgo.com
+# DuckDuckGo Hosts End
+
+# Dropbox Hosts Start
+162.125.248.2	db.tt
+162.125.248.1	www.dropbox.com
+162.125.248.1	www.dualstack.dropbox-dns.com
+162.125.5.7	api.dropbox.com
+162.125.5.7	api.dualstack.dropbox-dns.com
+162.125.5.7	api.dropboxapi.com
+162.125.33.7	api-d.dropbox.com
+162.125.34.7	api.v.dropbox.com
+162.125.34.7	api-notify.dropbox.com
+99.84.239.58	aem.dropbox.com
+162.125.82.8	api-content.dropbox.com
+162.125.82.5	api-content-photos.dropbox.com
+13.35.8.95	blogs.dropbox.com
+162.125.17.132	block.dropbox.com
+162.125.17.5	block.v.dropbox.com
+162.125.18.133	bolt.dropbox.com
+162.125.65.3	client.dropbox.com
+162.125.65.3	client-cf.dropbox.com
+162.125.32.137	client.v.dropbox.com
+162.125.80.3	client-lb.dropbox.com
+162.125.80.3	client-web.dropbox.com
+162.125.32.135	d.dropbox.com
+162.125.32.135	d.v.dropbox.com
+162.125.83.6	dl.dropbox.com
+162.125.83.6	dl-web.dropbox.com
+162.125.83.6	dl-doc.dropbox.com
+54.236.121.227	dl-debug.dropbox.com
+13.35.8.71	forums.dropbox.com
+13.35.99.72	linux.dropbox.com
+162.125.80.2	m.dropbox.com
+54.230.173.117	marketing.dropbox.com
+162.125.66.5	photos.dropbox.com
+162.125.83.5	photos-1.dropbox.com
+162.125.83.5	photos-2.dropbox.com
+162.125.83.5	photos-3.dropbox.com
+162.125.83.5	photos-4.dropbox.com
+162.125.83.5	photos-5.dropbox.com
+162.125.83.5	photos-6.dropbox.com
+162.125.83.5	photos-thumb.dropbox.com
+162.125.18.129	photos-thumb.x.dropbox.com
+54.153.81.237	paper.dropbox.com
+54.230.173.90	status.dropbox.com
+54.230.173.29	snapengage.dropbox.com
+162.125.7.6	dl.dropboxusercontent.com
+162.125.33.9	www.dropboxstatic.com
+104.16.100.29	cfl.dropboxstatic.com
+54.230.175.68	cf.dropboxstatic.com
+162.125.33.9	dbxlocal.dropboxstatic.com
+162.125.82.2	log.getdropbox.com
+# Dropbox Hosts End
+
 # Amazon AWS Hosts Start
 52.219.4.104                  s3-ap-northeast-1.amazonaws.com
 52.95.129.92                  s3-ap-southeast-2.amazonaws.com
@@ -148,24 +213,24 @@
 172.217.168.209               candidatos.withgoogle.com
 172.217.168.209               trendstw.withgoogle.com
 172.217.168.209               impactchallenge.withgoogle.com
-172.217.168.209	eduproducts.withgoogle.com
-172.217.168.209	onetoday.google.com
-172.217.168.209	withgoogle.com
-172.217.168.209	www.withgoogle.com
-172.217.168.209	cloudnext.withgoogle.com
-172.217.168.209	edutrainingcenter.withgoogle.com
-172.217.168.209	earthview.withgoogle.com
-172.217.168.209	lightsaber.withgoogle.com
-172.217.168.209	britishmuseum.withgoogle.com
-172.217.168.209	beyondthemap.withgoogle.com
-172.217.168.209	analyticsacademy.withgoogle.com
-172.217.168.209	spellup.withgoogle.com
-172.217.194.153	chrome-infra-packages.appspot.com
+172.217.168.209               eduproducts.withgoogle.com
+172.217.168.209               onetoday.google.com
+172.217.168.209               withgoogle.com
+172.217.168.209               www.withgoogle.com
+172.217.168.209               cloudnext.withgoogle.com
+172.217.168.209               edutrainingcenter.withgoogle.com
+172.217.168.209               earthview.withgoogle.com
+172.217.168.209               lightsaber.withgoogle.com
+172.217.168.209               britishmuseum.withgoogle.com
+172.217.168.209               beyondthemap.withgoogle.com
+172.217.168.209               analyticsacademy.withgoogle.com
+172.217.168.209               spellup.withgoogle.com
+172.217.194.153               chrome-infra-packages.appspot.com
 # Appspot Hosts End
 
 # BigGo Hosts Start
-61.222.241.167	img.biggo.com.tw
-61.222.241.168	biggo.com.tw
+61.222.241.167                img.biggo.com.tw
+61.222.241.168                biggo.com.tw
 # BigGo Hosts End
 
 # Box Hosts Start
@@ -199,70 +264,5 @@
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
 # Bbc Hosts End
-
-# Dropbox Hosts Start
-162.125.248.2	db.tt
-162.125.248.1	www.dropbox.com
-162.125.248.1	www.dualstack.dropbox-dns.com
-162.125.5.7	api.dropbox.com
-162.125.5.7	api.dualstack.dropbox-dns.com
-162.125.5.7	api.dropboxapi.com
-162.125.33.7	api-d.dropbox.com
-162.125.34.7	api.v.dropbox.com
-162.125.34.7	api-notify.dropbox.com
-99.84.239.58	aem.dropbox.com
-162.125.82.8	api-content.dropbox.com
-162.125.82.5	api-content-photos.dropbox.com
-13.35.8.95	blogs.dropbox.com
-162.125.17.132	block.dropbox.com
-162.125.17.5	block.v.dropbox.com
-162.125.18.133	bolt.dropbox.com
-162.125.65.3	client.dropbox.com
-162.125.65.3	client-cf.dropbox.com
-162.125.32.137	client.v.dropbox.com
-162.125.80.3	client-lb.dropbox.com
-162.125.80.3	client-web.dropbox.com
-162.125.32.135	d.dropbox.com
-162.125.32.135	d.v.dropbox.com
-162.125.83.6	dl.dropbox.com
-162.125.83.6	dl-web.dropbox.com
-162.125.83.6	dl-doc.dropbox.com
-54.236.121.227	dl-debug.dropbox.com
-13.35.8.71	forums.dropbox.com
-13.35.99.72	linux.dropbox.com
-162.125.80.2	m.dropbox.com
-54.230.173.117	marketing.dropbox.com
-162.125.66.5	photos.dropbox.com
-162.125.83.5	photos-1.dropbox.com
-162.125.83.5	photos-2.dropbox.com
-162.125.83.5	photos-3.dropbox.com
-162.125.83.5	photos-4.dropbox.com
-162.125.83.5	photos-5.dropbox.com
-162.125.83.5	photos-6.dropbox.com
-162.125.83.5	photos-thumb.dropbox.com
-162.125.18.129	photos-thumb.x.dropbox.com
-54.153.81.237	paper.dropbox.com
-54.230.173.90	status.dropbox.com
-54.230.173.29	snapengage.dropbox.com
-162.125.7.6	dl.dropboxusercontent.com
-162.125.33.9	www.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-54.230.175.68	cf.dropboxstatic.com
-162.125.33.9	dbxlocal.dropboxstatic.com
-162.125.82.2	log.getdropbox.com
-# Dropbox Hosts End
-
-# DuckDuckGo Hosts Start
-13.210.167.213	duckduckgo.com
-13.210.167.213	www.duckduckgo.com
-13.210.167.213	ac.duckduckgo.com
-13.210.167.213	start.duckduckgo.com
-13.210.167.213	help.duckduckgo.com
-23.21.193.169	icons.duckduckgo.com
-23.21.193.169	proxy.duckduckgo.com
-23.21.193.169	images.duckduckgo.com
-23.21.193.169	improving.duckduckgo.com
-23.21.193.169	external-content.duckduckgo.com
-# DuckDuckGo Hosts End
 
 # Modified Hosts End
