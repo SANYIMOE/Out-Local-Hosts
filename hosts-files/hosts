@@ -41,6 +41,21 @@
 104.16.10.231                 cdn.discordapp.com
 # Discord Hosts End
 
+# Wikipedia Hosts Start
+103.102.166.224               wikipedia.org
+103.102.166.224               www.wikipedia.org
+103.102.166.224               zh.wikipedia.org
+103.102.166.224               en.wikipedia.org
+103.102.166.224               ja.wikipedia.org
+103.102.166.224               fr.wikipedia.org
+103.102.166.224               es.wikipedia.org
+103.102.166.224               ru.wikipedia.org
+103.102.166.224               de.wikipedia.org
+103.102.166.224               it.wikipedia.org
+103.102.166.224               fa.wikipedia.org
+103.102.166.224               pt.wikipedia.org
+# Wikipedia Hosts End
+
 # Amazon AWS Hosts Start
 52.219.4.104                  s3-ap-northeast-1.amazonaws.com
 52.95.129.92                  s3-ap-southeast-2.amazonaws.com
