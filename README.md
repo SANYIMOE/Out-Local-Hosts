@@ -1,6 +1,8 @@
 # Out-Local-Hosts
 ## 一、介绍
-本项目可以让你通过修改hosts的方式访问github,instagram,google,gmail,youtube等网站，解决无法访问、访问慢、图片加载不出来等问题。
+本项目可以让你通过修改hosts的方式访问github ,facebook ,instagram ,twitter* ,google* ,gmail* ,youtube* 等网站，解决无法访问、访问慢、图片加载不出来等问题。
+
+* 为已经完全无法通过修改hosts实现访问的网站，暂时不会完全支持。
 
 注：本项目还处于测试阶段，仅在本机测试通过，如有问题欢迎提[issues](https://github.com/SANYIMOE/Out-Local-Hosts/issues)。
 
