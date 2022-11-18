@@ -35,13 +35,13 @@
 # Amazon AWS Hosts End
 
 # Amazon Japan Hosts Start
-52.119.164.121	amazon.co.jp
-23.13.186.208	www.amazon.co.jp
-54.239.96.187	aftlite-portal-nrt.amazon.co.jp
-52.94.210.248	alexa.amazon.co.jp
-54.240.251.149	api.amazon.co.jp
-52.119.168.241	arap.amazon.co.jp
-54.240.248.126	www.artistcentral.amazon.co.jp
+52.119.164.121                amazon.co.jp
+23.13.186.208                 www.amazon.co.jp
+54.239.96.187                 aftlite-portal-nrt.amazon.co.jp
+52.94.210.248                 alexa.amazon.co.jp
+54.240.251.149                api.amazon.co.jp
+52.119.168.241                arap.amazon.co.jp
+54.240.248.126                www.artistcentral.amazon.co.jp
 54.240.250.160	astore.amazon.co.jp
 52.94.211.66	brandregistry.amazon.co.jp
 54.240.248.142	catalog-sc.amazon.co.jp
@@ -224,3 +224,16 @@
 162.125.33.9	dbxlocal.dropboxstatic.com
 162.125.82.2	log.getdropbox.com
 # Dropbox Hosts End
+
+# DuckDuckGo Hosts Start
+13.210.167.213	duckduckgo.com
+13.210.167.213	www.duckduckgo.com
+13.210.167.213	ac.duckduckgo.com
+13.210.167.213	start.duckduckgo.com
+13.210.167.213	help.duckduckgo.com
+23.21.193.169	icons.duckduckgo.com
+23.21.193.169	proxy.duckduckgo.com
+23.21.193.169	images.duckduckgo.com
+23.21.193.169	improving.duckduckgo.com
+23.21.193.169	external-content.duckduckgo.com
+# DuckDuckGo Hosts End
