@@ -2810,6 +2810,31 @@
 192.229.232.217	video.twimg.com
 # Twitter End
 
+# WikiLeaks Start
+95.211.113.131	wikileaks.org
+95.211.113.131	www.wikileaks.org
+141.105.65.113	file.wikileaks.org
+# WikiLeaks End
+
+# Wikinews Start
+198.35.26.96	zh.wikinews.org
+198.35.26.96	zh.m.wikinews.org
+# Wikinews End
+
+# Wikipedia Start
+198.35.26.96	www.wikipedia.org
+198.35.26.96	login.wikimedia.org
+198.35.26.96	wuu.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
+198.35.26.96	zh.wikipedia.org
+198.35.26.96	zh.m.wikipedia.org
+198.35.26.96	ja.wikipedia.org
+198.35.26.96	ja.m.wikipedia.org
+198.35.26.96	ug.wikipedia.org
+198.35.26.96	ug.m.wikipedia.org
+198.35.26.112	upload.wikimedia.org
+# Wikipedia End
+
 # Youtube Start
 108.177.125.136	youtube.com
 108.177.125.136	youtu.be
